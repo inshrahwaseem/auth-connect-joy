@@ -1,5 +1,7 @@
 # auth-connect-joy
 
+![Auth Connect Joy Demo](public/demo.webp)
+
 A production-ready authentication system built with React, TypeScript, Supabase, and Tailwind CSS.
 
 ## Features
