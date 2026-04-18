@@ -1,6 +1,25 @@
 # auth-connect-joy
 
-![Auth Connect Joy Demo](public/demo.webp)
+## 📸 App Showcase & Features
+
+<div align="center">
+  <img src="public/screenshots/login.png" alt="Login Interface" width="700"/>
+  <br />
+  <i><strong>1. Secure Login</strong> — Complete with Cloudflare Turnstile CAPTCHA and Email integration.</i>
+</div>
+<br/>
+<div align="center">
+  <img src="public/screenshots/signup.png" alt="Signup Interface" width="700"/>
+  <br />
+  <i><strong>2. Seamless Registration</strong> — Features strict password validation and Supabase Auth.</i>
+</div>
+<br/>
+<div align="center">
+  <img src="public/screenshots/forgot-password.png" alt="Forgot Password Interface" width="700"/>
+  <br />
+  <i><strong>3. Account Recovery</strong> — Fully functioning password reset flow with Magic Links.</i>
+</div>
+<br/>
 
 A production-ready authentication system built with React, TypeScript, Supabase, and Tailwind CSS.
 
