@@ -66,7 +66,7 @@ export default function SignupPage() {
       return;
     }
 
-    toast.success("Account created! Check your email to verify.");
+    toast.success("Account created successfully. Please verify your email to continue.");
     navigate(ROUTES.VERIFY_EMAIL);
   };
 
